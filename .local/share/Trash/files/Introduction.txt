@@ -1,0 +1,13 @@
+Introduction
+Business Problem
+
+For the majority of entrepreneurs in the field there is always the problem of choosing a place for a restaurant / cafe.
+So, how we can find and choose best plasce for starting business?
+
+There are always a lot of factors affecting the success of establishments in the area.
+We can develop algorithm to calculate the probability of success or profitability in area and choose best location for new business.
+We must identify the factors affecting the success of a business and collect them.
+
+After that we can analyse data and develop algorithm of calculating area profitability score.
+
+I choose Moscow, Russia to like a sample to develop algorithm.
