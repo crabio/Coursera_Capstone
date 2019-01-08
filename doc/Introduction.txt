@@ -9,3 +9,5 @@ We can develop algorithm to calculate the probability of success or profitabilit
 We must identify the factors affecting the success of a business and collect them.
 
 After that we can analyse data and develop algorithm of calculating area profitability score.
+
+I choose Moscow, Russia to like a sample to develop algorithm.
